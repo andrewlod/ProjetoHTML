@@ -1,0 +1,31 @@
+.entrada{
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 20px;
+}
+#nome{
+	background-color: rgb(255,63,63);
+}
+#sobrenome{
+	background-color: rgb(63,255,63);
+}
+#email{
+	background-color: rgb(63, 63, 255);
+}
+#matricula{
+	background-color: rgb(255,255, 63);
+}
+#usuario{
+	background-color: rgb(255, 63, 255);
+}
+#senha{
+	background-color: rgb(63, 255, 255);
+}
+#entrar{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 80px;
+	background-color: rgb(200,200,200);
+}
